@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a certified IBM full stack web dev, with a pas
 - 🌱 I’m currently learning advanced concepts in Generative Adversarial Networks (GANs)
 - 👯 I’m looking to collaborate on projects that challenge my skills in *full-stack development*
 - 🤔 I’m looking for help with mastering **API design**
-- 📫 How to reach me: Email: [ditivaisht@gmail.com](mailto:ditivasisht@gmail.com)
+- 📫 How to reach me: Email: [kafkacodes.com](mailto:ditivasisht@gmail.com)
 - LinkedIn: [Diti Vasisht](https://www.linkedin.com/in/diti-vasisht-36851b241)
 - X: [@DitiVasisht](https://x.com/DitiVasisht)
 - ⚡ Fun fact: imma literature enthusiast
