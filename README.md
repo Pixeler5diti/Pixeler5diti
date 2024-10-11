@@ -9,5 +9,5 @@ Welcome to my GitHub profile! I'm a certified IBM full stack web dev, with a pas
 - 📫 How to reach me: Email: [ditivaisht@gmail.com](mailto:ditivasisht@gmail.com)
 - LinkedIn: [Diti Vasisht](https://www.linkedin.com/in/diti-vasisht-36851b241)
 - X: [@DitiVasisht](https://x.com/DitiVasisht)
-- ⚡ Fun fact: imma literarute enthusiast
+- ⚡ Fun fact: imma literature enthusiast
 
