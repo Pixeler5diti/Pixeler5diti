@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hi,this is Diti! 👋
 Welcome to my GitHub profile! I'm a **certified IBM full stack web dev**, with a passion for everything thats code!. I love working on projects that involve innovation and creativity, pushing the boundaries of what's possible with technology .
 
 
