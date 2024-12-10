@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a **certified IBM full stack web dev**, with a
 
 
 - 🔭 I’m currently working on leveraging neural network architecture 
-- 🌱 I’m currently learning nothing special ,bruh.
+- 🌱 I’m currently learning GAN's in depth
 - 👯 I’m looking to collaborate on projects that challenge my skills in *full-stack development*
 - 📫 How to reach me: Email: [kafkacodes.com](mailto:halfwayhero@proton.me)
 - LinkedIn: [Diti Vasisht](https://www.linkedin.com/in/diti-vasisht-36851b241)
