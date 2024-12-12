@@ -6,9 +6,6 @@ Welcome to my GitHub profile! I'm a **certified IBM full stack web dev**, with a
 - 🌱 I’m currently learning GAN's in depth
 - 👯 I’m looking to collaborate on projects that challenge my skills in *full-stack development*
 - 📫 How to reach me: Email: [kafkacodes.com](mailto:halfwayhero@proton.me)
-- LinkedIn: [Diti Vasisht](https://www.linkedin.com/in/diti-vasisht-36851b241)
-- X: [@DitiVasisht](https://x.com/DitiVasisht)
-- ⚡ Fun fact: imma literature enthusiast
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ditivasisht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ditivasisht) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Quirky_Opinion_685) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DitiVasisht) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ditivasisht) 
