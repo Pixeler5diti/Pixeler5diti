@@ -3,7 +3,7 @@ I'm a **certified IBM full stack web dev**, with a passion for everything thats 
 
 
 
-- 🌱 I’m currently learning GAN's in depth
+- 🌱 I’m currently learning Langflow 
 - 👯 I’m looking to collaborate on projects that challenge my skills in *full-stack development*
 - 📫 How to reach me: Email: [kafkacodes.com](mailto:halfwayhero@proton.me)
 
